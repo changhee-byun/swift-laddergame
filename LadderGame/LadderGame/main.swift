@@ -8,6 +8,8 @@
 
 import Foundation
 
-printf("hello world")
-printf("step1 branch")
+print("hello world")
+print("step1 branch")
+
+
 
